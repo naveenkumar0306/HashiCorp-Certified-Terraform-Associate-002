@@ -23,11 +23,11 @@ Language	English
 Expiration	2 years
 
 ## Exam Objectives
-### 1	Understand infrastructure as code (IaC) concepts
-```
-1a	Explain what IaC is
-1b	Describe advantages of IaC patterns
-```
+[1 Understand infrastructure as code (IaC) concepts](https://github.com/naveenkumar0306/HashiCorp-Certified-Terraform-Associate-002/tree/main/1%20Understand%20infrastructure%20as%20code%20(IaC)%20concepts)
+
+ -  [1a	Explain what IaC is](https://github.com/naveenkumar0306/HashiCorp-Certified-Terraform-Associate-002/blob/main/1%20Understand%20infrastructure%20as%20code%20(IaC)%20concepts/1a%09Explain%20what%20IaC%20is.md)
+ -  [1b	Describe advantages of IaC patterns](https://github.com/naveenkumar0306/HashiCorp-Certified-Terraform-Associate-002/tree/main/1%20Understand%20infrastructure%20as%20code%20(IaC)%20concepts)
+
 ### 2	Understand the purpose of Terraform (vs other IaC)
 ```
 2a	Explain multi-cloud and provider-agnostic benefits
