@@ -22,6 +22,9 @@ Free retake not included
 Language	English
 Expiration	2 years
 
+##Mindmap
+- [Mindmap](https://github.com/naveenkumar0306/HashiCorp-Certified-Terraform-Associate-002/blob/main/Mindmap.pdf)
+
 ## Exam Objectives
 [1 Understand infrastructure as code (IaC) concepts](https://github.com/naveenkumar0306/HashiCorp-Certified-Terraform-Associate-002/tree/main/1%20Understand%20infrastructure%20as%20code%20(IaC)%20concepts)
 
